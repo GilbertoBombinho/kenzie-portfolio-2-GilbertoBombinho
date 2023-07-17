@@ -4,6 +4,4 @@ export const userData = {
   linkedinUser: "gilberto-bombinho-223361236",
   whatsappNumber: "+5521968299189",
   emailUser: "gilberto.bombinho.cardoso@gmail.com",
-  // instagramUser: "samuelleaoui",
-  // facebookUser: "",
 };
